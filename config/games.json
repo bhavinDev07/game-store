@@ -1,10 +1,5 @@
 [
   {
-    "link": "projects/1/index.html",
-    "imgSrc": "projects/1/meta/apple-touch-icon.png",
-    "title": "1"
-  },
-  {
     "link": "projects/1v1space/index.html",
     "imgSrc": "projects/1v1space/splash.png",
     "title": "1v1.space"
@@ -718,10 +713,5 @@
     "link": "projects/worlds-hardest-game-2/index.html",
     "imgSrc": "projects/worlds-hardest-game-2/the-worlds-hardest-game-2.jpg",
     "title": "World's Hardest Game 2"
-  },
-  {
-    "link": "projects/you-are-bezos/index.html",
-    "imgSrc": "projects/you-are-bezos/img/banner.png",
-    "title": "You Are Jeff Bezos"
   }
 ]
