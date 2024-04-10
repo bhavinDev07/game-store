@@ -713,5 +713,30 @@
     "link": "projects/worlds-hardest-game-2/index.html",
     "imgSrc": "projects/worlds-hardest-game-2/the-worlds-hardest-game-2.jpg",
     "title": "World's Hardest Game 2"
+  },
+  {
+    "link": "projects/tacticalassasin2/index.html",
+    "imgSrc": "projects/tacticalassasin2/tacticalassassin2.png",
+    "title": "Tactical Assassin 2"
+  },
+  {
+    "link": "projects/push-your-luck/index.html",
+    "imgSrc": "projects/01.jpg",
+    "title": "Push Your Luck"
+  }, 
+  {
+    "link": "projects/tv-static/index.html",
+    "imgSrc": "projects/02.jpg",
+    "title": "Tactical Assassin 2"
+  },
+  {
+    "link": "projects/the-final-earth/index.html",
+    "imgSrc": "projects/03.jpg",
+    "title": "Tactical Assassin 2"
+  },
+  {
+    "link": "projects/superhot/index.html",
+    "imgSrc": "projects/superhot/hot.jpg",
+    "title": "Superhot"
   }
 ]
